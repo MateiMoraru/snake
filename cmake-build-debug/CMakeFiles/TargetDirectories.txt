@@ -1,0 +1,3 @@
+C:/Users/radua/CLionProjects/matei/snake fr fr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/radua/CLionProjects/matei/snake fr fr/cmake-build-debug/CMakeFiles/snake_fr_fr.dir
+C:/Users/radua/CLionProjects/matei/snake fr fr/cmake-build-debug/CMakeFiles/edit_cache.dir
